@@ -1,2 +1,1 @@
-# BMI
-BMI calculator is basically a calculator which is basically used for the calculating the Body mass index.
+BMI calculator is a type of software which is basically used for calculating Body mass index easily.Since bmi ratio is a very important fact in our body so it is important to calculate the body mass index ratio daily.
